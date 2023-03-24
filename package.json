@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Server app that uses the ORGANIZATION_NAME/PACKAGE_NAME package",
   "main": "index.js",
-  "author": "",
-  "license": "MIT",
+  "author": "davacax",
+  "license": "1",
   "dependencies": {
     "ORGANIZATION_NAME/PACKAGE_NAME": "1.0.0"
   }
