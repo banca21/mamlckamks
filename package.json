@@ -1,11 +1,15 @@
 {
-  "name": "@cuevana-21",
+  "name": "cuevana-caxaxa",
   "version": "1.0.0",
-  "description": "Server app that uses the ORGANIZATION_NAME/PACKAGE_NAME package",
+  "description": "",
   "main": "index.js",
-  "author": "davacax",
-  "license": "1",
-  "dependencies": {
-    "ORGANIZATION_NAME/PACKAGE_NAME": "1.0.0"
-  }
+  "scripts": {
+    "test": "test"
+  },
+  "author": "acax",
+  "license": "ISC"
 }
+
+  "publishConfig": {
+    "registry": "https://github.com/banca21/mamlckamks"
+  },
